@@ -1,0 +1,35 @@
+Course Title: Cryptanalysis
+Letsdefend.io training
+
+Date: 07/26/2024
+
+Course Overview:
+
+This was a course reading on Cryptology.The science that designs crypto algorithms that provide data security in communication 
+infrastructures and research the reliability of these algorithms is called "Cryptology". “Cryptology” is a science that is based 
+on encryption and decryption, which is usually the expertise of mathematicians. For the science of cryptology, it can be said that
+consist of the intersection of mathematics, electrical engineering, and computer science. Cryptology science is a very broad 
+science and is divided into 2 itself: "Cryptography" and "Cryptanalysis".
+
+
+---
+
+Part 1 - Cryptoanalysis
+
+Time for course Completion:
+2hrs 30mins
+
+Purpose of the Course:
+The purpose of the course was to give student detailed introduction to the world of Cryptology. The various branches of Cryptology 
+and what each one does. Basic concept, historical ciphers, encryption, RNG's, Hashing, Encoding and finally, it's application.
+Cryptanalysis is essential to the study of cybersecurity because Cryptanalysis plays a crucial role in evaluating the security
+of cryptographic systems. In general, the more difficult it is to crack a cryptographic system using cryptanalysis, the more secure 
+the system is.
+What did you enjoy about the course?
+The course was detailed and very condensed. Every concept was clearly and succinctly explained.
+
+What did you find most challenging about the course?
+Well, I took the test before reading through the course. I failed to answer correctly the questions from Random Number Generators,
+and the latest web encryption protocol- TLS 1.3.
+
+
